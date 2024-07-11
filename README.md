@@ -1,0 +1,1 @@
+Esten projeto foi feito por Filipi Costa com auxilio do curso online da Rocketseat, essa é a primeira fez que eu faço o site com base nos códigos, eu fiz exatamente no que estava na vídeoaula, portando, tá exatamente igual, espero que gostem :)
